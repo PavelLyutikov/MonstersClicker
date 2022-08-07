@@ -4,7 +4,7 @@ this is a Unity project that I did as a test task for a device for work. This pr
 
 ____
 
-<img src="file:///Users/pavellyutikov/Desktop/Group%20206.png" title="" alt="Group 206.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/MonstersClicker/blob/main/Screenshot/Group%20206.png?raw=true" title="" alt="Group 206.png" data-align="center">
 
 ____
 
@@ -24,7 +24,7 @@ ____
 
 - In the menu section there is a list of records and titles, in the list of records the user can register or log in, the list of records is made through Firebase Authentication.
   
-  <img src="file:///Users/pavellyutikov/Desktop/screen7.png" title="" alt="screen7.png" data-align="center">
+  <img src="https://github.com/PavelLyutikov/MonstersClicker/blob/main/Screenshot/screen7.png?raw=true" title="" alt="screen7.png" data-align="center">
 
 ### Requirements
 
